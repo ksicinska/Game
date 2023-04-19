@@ -1,0 +1,15 @@
+﻿Jednak nie będzie to typowa walka!
+
+Rycerze dostali od Lorda zagadkę do rozwiązania, jednak żaden z nich jej nie rozwiązał.
+Jeśli podasz poprawną odpowiedź, wygrasz turniej!
+
+Treść zagadki:
+
+Lord Farquad jechał do swojego zamku poza miastem ze stałą prędkością
+(nie większą niż 90 km / h).
+W pewnym momencie licznik wskazywał 16961 km przebiegu. 
+Dokładnie po 2 godzinach liczba na liczniku ponownie pokazała liczbę,
+która czytana z lewej strony jest taka sama jak czytana z prawej.
+Z jaką prędkością (km / h) jechał Lord? (Podaj tylko wartość liczbową.)
+
+

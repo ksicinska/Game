@@ -1,0 +1,6 @@
+﻿Zasady gry:
+Jest to gra wyboru, podejmuj decyzje za pomocą strzałek i klawisza ENTER.
+Aby przejść do następnego punktu gry wciśnij jakikolwiek klawisz.
+W miejscach do tego wyznaczonych podaj liczby całkowite.
+Brak wyboru oznacza z gry.
+Powodzenia!
